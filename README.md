@@ -9,11 +9,9 @@ OCRは手書きや印刷された文字を、イメージスキャナやデジ�
 https://github.com/tesseract-ocr/tesseract
 
 # 解析対象の画像
-日本語のWikipedia画像
-![日本語のWikipedia](https://github.com/APPLE4869/orc-sample/wiki-top-jpn.png)
-
-英語のWikipedia画像
-![英語のWikipedia](https://github.com/APPLE4869/orc-sample/wiki-top-eng.png)
+|日本語のWikipedia画像|英語のWikipedia画像|
+|:--|:--|
+|![日本語のWikipedia](https://github.com/APPLE4869/orc-sample/blob/master/wiki-top-jpn.png)|![英語のWikipedia](https://github.com/APPLE4869/orc-sample/blob/master/wiki-top-eng.png)|
 
 # 解析後の文字列
 英語はかなり精度が高いように見えるが、日本語は誤字と不要な改行目立つ結果となった。
